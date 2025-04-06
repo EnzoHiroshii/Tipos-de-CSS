@@ -1,0 +1,45 @@
+.card {
+    width: 500px;
+    height: fit-content;
+    background-color: aliceblue;
+    border-radius: 25px;
+    border: solid 2px navy;
+    margin: 20px;
+    padding: 40px;
+}
+
+.border {
+    height: 80px;
+    width: 80px;
+    border-radius: 20px;
+}
+
+.icon1 {
+    background-image: url('https://cdn-icons-png.flaticon.com/512/706/706830.png');
+    width: 100%;
+    background-size: cover;
+    margin-top: 20px;
+    height: 100%;
+}
+
+.icon2 {
+    background-image: url('https://cdn-icons-png.flaticon.com/256/3681/3681928.png');
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+}
+
+.main-color {
+    color: navy
+}
+
+.text {
+    font-size: 15px;
+    font-family: monospace;
+}
+
+.title  {
+    font-size: 30;
+    font-family: monospace;
+}
